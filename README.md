@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fauzansalim
-- 👀 I’m interested in ...coding,managing programes,basketball
-- 🌱 I’m currently learning ...javva,c++,pyhon etc
-- 💞️ I’m looking to collaborate on ...startups
+- 👀 I’m interested in ...configure servers and development .
+- 🌱 I’m currently learning ...javva,c++,pyhon.
+- 💞️ I’m looking to collaborate on ...startups.
 - 📫 How to reach me ... contact me at  salim.fauzan360@gmail.com
 
 <!---
